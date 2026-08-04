@@ -1,0 +1,8 @@
+{
+    "taskpoints": [
+        {"id": 1, "descricao": "Revisar HTML Semantico"},
+        {"id": 2, "descricao": "Revisar ReactJS"},
+        {"id": 3, "descricao": "Revisar ReactJS"},
+        {"id": 4, "descricao": "Estudar React Native"}
+    ]
+}
